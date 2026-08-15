@@ -2,6 +2,17 @@
 
 Colección de ejercicios académicos desarrollados en Java para practicar vectores, ciclos, métodos, búsquedas y operaciones con arreglos.
 
+## Colección de ciclos
+
+El documento [`ejercicios-ciclos-java.pdf`](documentacion/ejercicios-ciclos-java.pdf) reúne 34 ejercicios realizados en Java:
+
+- 7 ejercicios con ciclo `for`.
+- 8 ejercicios con ciclo `while`.
+- 3 ejercicios con ciclo `do-while`.
+- 16 ejercicios de elección libre del tipo de ciclo.
+
+Los ejemplos incluyen promedios, tablas de multiplicar, descuentos, salarios, clasificación de datos, sucesiones, factoriales, números primos, máximos, mínimos y series matemáticas.
+
 ## Ejercicios incluidos
 
 ### Ejercicio 4: búsqueda en un vector
