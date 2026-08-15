@@ -1,0 +1,22 @@
+name: Compilar ejercicios Java
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  compilar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Compilar los 12 ejercicios
+        run: javac -encoding UTF-8 -d out src/*.java
