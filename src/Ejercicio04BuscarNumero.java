@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Busca un número dentro de un vector e informa su posición.
  */
-public class Ejercicio4BuscarNumero {
+public class Ejercicio04BuscarNumero {
 
     public static void main(String[] args) {
         try (Scanner entrada = new Scanner(System.in)) {

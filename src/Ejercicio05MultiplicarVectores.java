@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Multiplica cada elemento del vector A por el elemento opuesto del vector B.
  */
-public class Ejercicio5MultiplicarVectores {
+public class Ejercicio05MultiplicarVectores {
 
     private static final int VALOR_MINIMO = 1;
     private static final int VALOR_MAXIMO = 20;
