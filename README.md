@@ -13,14 +13,7 @@ El documento [`ejercicios-ciclos-java.pdf`](documentacion/ejercicios-ciclos-java
 
 Los ejemplos incluyen promedios, tablas de multiplicar, descuentos, salarios, clasificación de datos, sucesiones, factoriales, números primos, máximos, mínimos y series matemáticas.
 
-Los ejercicios están separados uno por uno dentro de [`src/ejercicios`](src/ejercicios), organizados por tipo de ciclo:
-
-- [`ciclo_for`](src/ejercicios/ciclo_for): 7 archivos.
-- [`ciclo_while`](src/ejercicios/ciclo_while): 8 archivos.
-- [`ciclo_do_while`](src/ejercicios/ciclo_do_while): 3 archivos.
-- [`ciclo_libre`](src/ejercicios/ciclo_libre): 16 archivos.
-
-Las implementaciones reutilizables y verificadas también se conservan en [`src/ciclos`](src/ciclos).
+La colección completa se conserva como evidencia académica en el PDF. En `src` solo se publican programas que fueron transcritos, revisados y probados como archivos Java independientes.
 
 ## Ejercicios incluidos
 
