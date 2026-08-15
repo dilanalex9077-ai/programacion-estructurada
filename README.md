@@ -1,5 +1,7 @@
 # Programación Estructurada en Java
 
+[![Compilar ejercicios Java](https://github.com/dilanalex9077-ai/programacion-estructurada/actions/workflows/compilar.yml/badge.svg)](https://github.com/dilanalex9077-ai/programacion-estructurada/actions/workflows/compilar.yml)
+
 Colección de 12 programas independientes para practicar lógica, ciclos, vectores, cadenas y matrices. Cada archivo incluye un método `main` y puede ejecutarse por separado.
 
 ## Ejercicios
